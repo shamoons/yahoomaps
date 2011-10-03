@@ -1,6 +1,6 @@
 {
   "name": "yahoomaps",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "main": "./lib/yahoomaps",
   "description": "A simple way to query the Yahoo Maps API from Node.js",
   "repository": {
